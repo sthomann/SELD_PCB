@@ -13,3 +13,4 @@ TODOs:
 
 STILL MISSING:
 Installation guide
+User guide
